@@ -19,8 +19,8 @@ Our repositories are organized into three main categories to help you find what 
   These are our main repositories where we develop projects for the MM community. This is where you'll find our core tools and services.
   
   - MMDT-Geo-Coder: Our foundational library for geo-coding in Myanmar address.
-  
   - MMDT-Developer_Survey: Our on-going developmental project for yearly survey programe..
+  - MMDT-Tokenizer: [Our content-aware, grammar-informed segmentation](https://pypi.org/project/mmdt-tokenizer/0.1.2/)
 
   📚 Training Repos (MMDT_T-)
   
